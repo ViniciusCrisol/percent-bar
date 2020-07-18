@@ -1,4 +1,4 @@
-## 📌 Percent read bar
+## 📌 Read bar
 
 ### Descrição do projeto 🚀
 
